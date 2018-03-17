@@ -1,4 +1,4 @@
-var selectableWords =           // Word list
+var selectableWords = 
     [
         "cat",
         "dog",
